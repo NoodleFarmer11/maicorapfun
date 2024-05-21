@@ -3,21 +3,11 @@ layout: page
 navname: About
 ---
 
-# {{ site.serverName }}
+# Server Discord
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+Link: https://discord.gg/G9Wk8y9BpW
 
 
-# Terms of Use
+# Bản Quyền
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
-
-
-# Privacy Policy
-
-This website does not collect any data, but third party integrations may collect data to provide a service.
-
-- Mcsrvstat.us: Displays Minecraft server status
-- Widgetbot: Displays Discord server preview
+soon

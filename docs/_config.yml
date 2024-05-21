@@ -1,26 +1,26 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://maicorap.fun"
+baseurl: "/maicorapfun"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Play MaiCoRap
+serverDescription: Máy chủ Minecraft SMP Việt Nam!
+serverIP: play.maicorap.fun
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/G9Wk8y9BpW
+discordServerID: 878187991745585213
+discordChannelID: 878187992785768453
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)

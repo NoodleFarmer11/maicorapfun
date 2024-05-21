@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://github.com/webbukkit/dynmap/wiki
+tourl: https://map.maicorap.fun/
 ---

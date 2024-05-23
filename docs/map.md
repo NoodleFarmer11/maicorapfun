@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://map.maicorap.fun/
+tourl: http://map.maicorap.fun/
 ---

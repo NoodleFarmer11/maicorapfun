@@ -13,14 +13,14 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Play MaiCoRap
 serverDescription: Máy chủ Minecraft SMP Việt Nam!
-serverIP: play.maicorap.fun
+serverIP: example.end
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/G9Wk8y9BpW
-discordServerID: 878187991745585213
-discordChannelID: 878187992785768453
+discordInvite: none
+discordServerID: 878187991745585277
+discordChannelID: 878187992785768477
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)

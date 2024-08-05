@@ -88,11 +88,6 @@ layout: compress
 
     {{ content }}
 
-    <div class="layoutfooter w-full pb-8 text-center transition duration-200">
-        <a href="https://maicorap.fun" rel="noopener" title="Site By Noodle" class="hover:text-gray-400">Powered by NoodleEngine</a> &middot; 
-        <a href="{% if site.siteFooterlink %}{{ site.baseurl }}{{ site.siteFooterlink }}{% else %}{{ site.baseurl }}/about{% endif %}" rel="noopener" title="Legal" class="hover:text-gray-400">&copy; {{ site.siteYear }}<script>new Date().getFullYear()>{{ site.siteYear }}&&document.write("&#8208;"+new Date().getFullYear());</script> {{ site.serverName }} &middot; Giới Thiệu/Liên Hệ</a>
-    </div>
-
     {% if page.navname == "Home" %}
     <script type="text/javascript" src="{{ site.baseurl }}/assets/serverstatus-home.js"></script>
     {% else %}
